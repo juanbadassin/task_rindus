@@ -1,4 +1,1 @@
-# task
-# task
-# task
-# task
+# Steps to run the tests
