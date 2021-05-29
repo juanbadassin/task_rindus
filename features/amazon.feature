@@ -1,4 +1,5 @@
 Feature: Amazon test
+    @AUTOMATED
     Scenario: Add items to the cart
         Given I go to the amazon home page
         And I search for product "hats for men"
